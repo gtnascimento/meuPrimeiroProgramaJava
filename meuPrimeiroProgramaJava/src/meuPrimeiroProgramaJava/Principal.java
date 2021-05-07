@@ -25,7 +25,7 @@ public class Principal { // Classe que contém o método principal.
 		Scanner in = new Scanner(System.in);
 		String nome = in.nextLine();
 		
-		// Saudação específica para o nome lido.
+		// Saudação específica para o nome lido. (teste)
 		System.out.printf("Olá %s!", nome);
 		
 	}

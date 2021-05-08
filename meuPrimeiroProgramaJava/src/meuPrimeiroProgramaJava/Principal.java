@@ -36,6 +36,7 @@ public class Principal { // Classe que contém o métoodo principal.
 		
 		System.out.printf("%d! Puxa! Como você é jovem!", idade);
 		
+		//NOTA: Implementar leitura da idade e exibi-la.
 	}
 
 }
